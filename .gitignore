@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Editor settings and notebook checkpoints
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local download and delivery archives
+*.zip
+
+# Keep the station CSV and output PNG charts available for version control.
